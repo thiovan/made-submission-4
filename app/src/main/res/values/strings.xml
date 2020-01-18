@@ -1,0 +1,22 @@
+<resources>
+    <string name="header_main">Catalogue</string>
+    <string name="header_detail">Detail</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="label_description">Description</string>
+    <string name="label_user_score">User Score</string>
+    <string name="label_runtime">Runtime</string>
+    <string name="img_description_poster">Movie Poster</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="error_fetch">Oops, failed to retrieve data from server</string>
+    <string name="error_no_transalation">Translation not found</string>
+    <string name="error_no_runtime">Unknown</string>
+    <string name="error_parse">Error parsing data from server</string>
+    <string name="nav_catalog">Catalogue</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="header_favorite">My Favorite</string>
+    <string name="menu_favorite">favorite</string>
+    <string name="success_add_favorite">Added to my favorite</string>
+    <string name="empty_favorite_list">Favorite list is empty</string>
+</resources>
